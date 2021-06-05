@@ -1,0 +1,135 @@
+
+body
+{
+  background-color: #FDFAF6 ;
+  margin: 0px;
+  text-align: center;
+  font-family: 'Mate SC', serif;
+
+}
+.topcontainer
+{
+  background-color:  #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+  color: #66BFBF;
+}
+
+h1
+{
+  font-size: 70px;
+  margin-top: 50px;
+  margin-bottom: 0px;
+
+}
+h2
+{
+  margin-top: 0px;
+  font-size: 1.5rem;
+  color: #66BFBF;
+}
+h3
+{
+  color: #66BFBF;
+}
+.topcloud
+{
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+.bottomcloud
+{
+  position: absolute;
+  left: 150px;
+  bottom: 330px;
+
+}
+a
+{
+  color: #11999E;
+}
+.middle-container
+{
+
+}
+.bottom-container
+{
+background-color: #66BFBF;
+text-transform: capitalize;
+padding: 50px 0 20px;
+}
+.skill-row
+{
+  width: 50%;
+  margin: 50px auto 50px auto ;
+  text-align:left;
+  line-height: 1;
+}
+.coding{
+width:30%;
+float: right;
+padding-left: 30px;
+
+}
+ .pic2
+ {
+   width: 30%;
+  float: right;
+  padding-left: 10px;
+ }
+ .pic3
+ {
+   width: 35%;
+   float: left;
+   padding-right: 30px;
+ }
+.pic
+{
+  border-radius: 100%;
+}
+span
+{
+  text-decoration: underline;
+}
+
+.pic4
+{
+  width: 25%;
+ float: left;
+ padding-right: 30px;
+ margin-bottom: 10px;
+}
+hr
+{
+  border-style: none;
+  border-top-style: dotted ;
+  border-width: 6px;
+  width: 5%;
+  border-color: grey;
+}
+.btn {
+  background: #A23DF6;
+ background-image: -webkit-linear-gradient(top, #A23DF6, #1EB7D0);
+ background-image: -moz-linear-gradient(top, #A23DF6, #1EB7D0);
+ background-image: -ms-linear-gradient(top, #A23DF6, #1EB7D0);
+ background-image: -o-linear-gradient(top, #A23DF6, #1EB7D0);
+ background-image: -webkit-gradient(to bottom, #A23DF6, #1EB7D0);
+ -webkit-border-radius: 20px;
+ -moz-border-radius: 20px;
+ border-radius: 20px;
+ color: #FFFFFF;
+ font-family: Tahoma;
+ font-size: 18px;
+ font-weight: 600;
+ padding: 10px;
+ -webkit-box-shadow: 1px 1px 20px 0 #000000;
+ -moz-box-shadow: 1px 1px 20px 0 #000000;
+ box-shadow: 1px 1px 20px 0 #000000;
+ text-shadow: 1px 1px 20px #000000;
+ border: solid #0059A0 4px;
+ text-decoration: none;
+ display: inline-block;
+ cursor: pointer;
+ text-align: center;
+}
